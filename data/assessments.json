@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "title": "Occupational Personality Questionnaire (OPQ)",
+      "description": "Assesses personality traits to predict workplace behavior and role fit.",
+      "competencies": ["personality", "behavior", "leadership"],
+      "target_role": "Managers, Leaders, General Staff"
+    },
+    {
+      "id": "2",
+      "title": "Verify G+ Test",
+      "description": "Measures general cognitive ability through problem-solving and critical reasoning.",
+      "competencies": ["cognitive ability", "problem-solving", "reasoning"],
+      "target_role": "Analysts, Engineers, Graduates"
+    },
+    {
+      "id": "3",
+      "title": "Numerical Reasoning Test",
+      "description": "Evaluates ability to interpret and analyze numerical data.",
+      "competencies": ["numerical ability", "data analysis"],
+      "target_role": "Finance, Data Analysts, Accountants"
+    },
+    {
+      "id": "4",
+      "title": "Coding Skills Assessment",
+      "description": "Tests programming skills in languages like Java and Python.",
+      "competencies": ["coding", "technical skills", "software development"],
+      "target_role": "Software Engineers, Developers"
+    }
+  ]
